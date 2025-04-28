@@ -31,7 +31,8 @@ li:hover{
 }
 
  body {
-    background-image: url('https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1350&q=80');
+    /* background-image: url('https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1350&q=80'); */
+    background-image: url('https://imgs.search.brave.com/bNOmVTgitk75F-JYB2gp5fuwZSWGdnbXVzMIbCS3Oek/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvZmVhdHVy/ZWQvd29ybGQtZ2xv/YmUtdHlqcnNuZWhk/bmJ6ZXkwdi5qcGc');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
