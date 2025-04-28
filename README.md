@@ -5,3 +5,5 @@ Welcome to Weatherly, a sleek and user-friendly weather website designed to give
 
 With clean visuals, intuitive design, and accurate data, our goal is to make checking the weather a quick and enjoyable experience.
 
+![Uploading image.png…]()
+
