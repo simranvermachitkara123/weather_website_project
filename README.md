@@ -5,6 +5,8 @@ Welcome to Weatherly, a sleek and user-friendly weather website designed to give
 
 With clean visuals, intuitive design, and accurate data, our goal is to make checking the current weather a quick and enjoyable experience.
 
+#Team Members--> Simran Verma,Namisha Bansal,Pranjal,Uday,Prikshit
+
 # 🌤️ Weather Forecast Website
 
 A sleek and responsive web application that provides real-time weather updates and forecasts for any city using weather API integration.
